@@ -1,4 +1,4 @@
-# Apple+ Codes Store - React SPA
+# E-commerce Store - React SPA (Template)
 
 A complete e-commerce platform for selling Apple+ digital codes, built with React, TypeScript, Tailwind CSS, Supabase, and Stripe.
 
