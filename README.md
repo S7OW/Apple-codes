@@ -198,4 +198,4 @@ For issues or questions, contact me through:
 
 ## License
 
-All right reserved, the buyer can use it only for personal use, can't be resold, but it can be reproduced and sold again
+All right reserved, can't be resold, but it can be reproduced and sold again
