@@ -10,7 +10,7 @@ A complete e-commerce platform for selling Apple+ digital codes, built with Reac
 - **Shopping Cart**: Add/remove items, adjust quantities
 - **Favorites**: Save products for later
 - **Secure Checkout**: Stripe payment integration (supports Mada, Visa, Mastercard)
-- **User Dashboard**: View purchased codes, order history, and favorites
+- **User Dashboard**: View purchased codes, order history,... but it needs a backend to be accessible. same thing for the items/products cards, they'll appear once you add a backend then adding products from the dashboard.
 - **Code Management**: Reveal and copy purchased codes
 - **Reviews**: Leave reviews after purchase (verified purchases only)
 - **Responsive Design**: Works perfectly on all devices
