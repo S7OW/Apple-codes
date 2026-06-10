@@ -191,10 +191,12 @@ The app supports English and Arabic:
 
 ## Support
 
-For issues or questions, contact me through:
+For issues or questions,  contact me through:
 - Instagram: x0_4u
 - Telegram: dj8nm
 - TikTok: sn4.f
+
+"i'm available for making custom websites too"
 
 ## License
 
